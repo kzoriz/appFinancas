@@ -20,8 +20,6 @@ export default function  Balance({saldo, gastos}){
                     <Text style={styles.expenses}>{gastos}</Text>
                 </View>
             </View>
-
-
         </View>
 
 
